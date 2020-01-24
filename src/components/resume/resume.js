@@ -14,7 +14,7 @@ export default class Resume extends Component {
               <div className="twelve columns">
                 <h3>Le Wagon Paris</h3>
                 <p className="info"> FullStack developer Bootcamp <span>•</span> <em className="date">Dec 2019</em></p>
-                  The 9 weeks of intensive coding bootcamp allowed me to understand the core concepts of object-oriented programing, through Ruby language. Building softwares from scratch, following design patterns like MVC, I learned to design relational databases and build queries with SQL. All projects I build so far are in Ruby on rails framework. For the front end part we learned the basics of ES6 Javascript and coded our own CSS library with recent techniques like Flexbox and CSS grid.  By pair-programing on a daily basis and collaborate within a team of developers for the final projects, I have definitely adopted the technical workflow followed by successful startups.
+                  The 9 weeks of intensive coding bootcamp allowed me to understand the core concepts of object-oriented programing, through Ruby language. Building softwares from scratch, following MVC design pattern, I learned to design relational databases and build queries with SQL. All projects I build so far are based on Ruby on rails framework. For the front end part we learned the basics of ES6 Javascript and coded our own CSS library with recent techniques like Flexbox and CSS grid.  By pair-programing on a daily basis and collaborate within a team of developers for the final projects, I have definitely adopted the technical workflow followed by successful startups.
                 <p>
 
                 </p>
@@ -25,7 +25,7 @@ export default class Resume extends Component {
                 <h3>Science Politiques Aix-en-Provence</h3>
                 <p className="info">Master Information-Communication <span>•</span> <em className="date">Sept 2003</em></p>
                 <p>
-                  Besides learning political, economical and social sciences, I spent 9 months in Dakar, Sénégal, working for a daily newspaper as a journalist. This experience had a great effect on my ability to be autonomous and highly adapative to any kind of situations.
+                  Besides learning political, economical and social sciences, I spent 9 months in Dakar, Sénégal, working for a daily newspaper as a journalist. This experience had a great effect on my abilities to be autonomous and highly adapative to any kind of situations.
                 </p>
               </div>
             </div>
@@ -65,7 +65,7 @@ export default class Resume extends Component {
             <h1><span>Skills</span></h1>
           </div>
           <div className="nine columns main-col">
-            <p> Among the soft skills that I have been able to acquire over the years, the most important to me are organization skills, a great rigor, and a lot of perseverance. In video editing what I like more is the moment I work with the director, putting together the best of artistic and technical aspects to create a nice, coherent and original piece of work. I felt the same emulation when pair-programing at le wagon!
+            <p> Among the soft skills that I have been able to acquire over the years, I would highlight great organization skills, attention to details, and a lot of perseverance. What I like most in the video editing process are the moments I work directly with the director, putting together the best of artistic and technical aspects to create a nice, coherent and original piece of work. I felt the same emulation when pair-programing at le wagon!
             </p>
             <div className="bars">
               <ul className="skills">
@@ -75,6 +75,7 @@ export default class Resume extends Component {
                 <li><span className="bar-expand css" /><em>CSS</em></li>
                 <li><span className="bar-expand html5" /><em>HTML5</em></li>
                 <li><span className="bar-expand sql" /><em>SQL</em></li>
+                <li><span className="bar-expand react" /><em>React</em></li>
               </ul>
             </div>
           </div>
