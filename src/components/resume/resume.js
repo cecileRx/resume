@@ -25,10 +25,7 @@ export default class Resume extends Component {
                 <h3>Science Politiques Aix-en-Provence</h3>
                 <p className="info">Master Information-Communication <span>•</span> <em className="date">Sept 2003</em></p>
                 <p>
-                  This is Photoshop version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                  Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                  nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan
-                  ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
+                  Besides learning political, economical and social sciences, I spent 9 months in Dakar, Sénégal, working for a daily newspaper as a journalist. This experience had a great effect on my ability to be autonomous and highly adapative to any kind of situations.
                 </p>
               </div>
             </div>
