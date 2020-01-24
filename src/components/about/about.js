@@ -11,12 +11,7 @@ export default class About extends Component {
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
-            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-              eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-              voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-              voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
-              sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-              Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.
+            <p>After years of experience in the field of audiovisual post-production, the desire to face new challenges naturally led me to consider the code not only as a passion but as a real life opportunity. Self-taught learning of web programming basics confirmed my enthusiasm for creating web applications, and the intensive training at Le Wagon gave me the knowledge and skills to successfully start this new professional adventure.
             </p>
             <div className="row">
               <div className="columns contact-details">
