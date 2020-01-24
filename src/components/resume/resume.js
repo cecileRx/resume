@@ -14,7 +14,7 @@ export default class Resume extends Component {
               <div className="twelve columns">
                 <h3>Le Wagon Paris</h3>
                 <p className="info"> FullStack developer Bootcamp <span>•</span> <em className="date">Dec 2019</em></p>
-                  The 9 weeks of intensive coding bootcamp allows me to understand the core concepts of object-oriented programing, through Ruby language. Building softwares from scratch, following design patterns like MVC, I learned to design relational databases and build queries with SQL. All projects I build so far are in Ruby on rails framework. For the front end part we learned the basics of ES6 Javascript and coded our own CSS library with recent techniques like Flexbox and CSS grid.  By pair-programing on a daily basis and collaborate within a team of developers for the final projects, we definitely adopt the technical workflow followed by successful startups.
+                  The 9 weeks of intensive coding bootcamp allowed me to understand the core concepts of object-oriented programing, through Ruby language. Building softwares from scratch, following design patterns like MVC, I learned to design relational databases and build queries with SQL. All projects I build so far are in Ruby on rails framework. For the front end part we learned the basics of ES6 Javascript and coded our own CSS library with recent techniques like Flexbox and CSS grid.  By pair-programing on a daily basis and collaborate within a team of developers for the final projects, I have definitely adopted the technical workflow followed by successful startups.
                 <p>
 
                 </p>
@@ -38,25 +38,23 @@ export default class Resume extends Component {
           <div className="nine columns main-col">
             <div className="row item">
               <div className="twelve columns">
-                <h3>Awesome Design Studio</h3>
-                <p className="info">Senior UX Designer <span>•</span> <em className="date">March 2010 - Present</em></p>
+                <h3>Video Editor</h3>
+                <p className="info">Freelancer for Animation series <span>•</span> <em className="date">March 2012 - Present</em></p>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-                  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-                  ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-                  Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
+                  Developed and managed projects from concept to completion, including storyboards, post-production editing and final delivery formats.
+                  Reviewed and edited animation films by selecting best combination of performance, sequencing and timing to tell beautiful stories.
                 </p>
               </div>
             </div> {/* item end */}
             <div className="row item">
               <div className="twelve columns">
-                <h3>Super Cool Studio</h3>
-                <p className="info">UX Designer <span>•</span> <em className="date">March 2007 - February 2010</em></p>
+                <h3>Post-production Supervisor</h3>
+                <p className="info">Futurikon Animation Studio <span>•</span> <em className="date">March 2007 - February 2010</em></p>
                 <p>
-                  This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                  Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                  nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan
-                  ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
+                  Supervised production plannings while using appropriate tools and analysis for smooth production output.
+                   Collaborated with artists and technicians to achieve stunning results for visual effects and 3D animation.
+                  Evaluated quality problems and performed required actions to identify and resolve issues.
+
                 </p>
               </div>
             </div> {/* item end */}
@@ -67,10 +65,7 @@ export default class Resume extends Component {
             <h1><span>Skills</span></h1>
           </div>
           <div className="nine columns main-col">
-            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-              eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-              voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-              voluptatem sequi nesciunt.
+            <p> Among the soft skills that I have been able to acquire over the years, the most important to me are organization skills, a great rigor, and a lot of perseverance. In video editing what I like more is the moment I work with the director, putting together the best of artistic and technical aspects to create a nice, coherent and original piece of work. I felt the same emulation when pair-programing at le wagon!
             </p>
             <div className="bars">
               <ul className="skills">
