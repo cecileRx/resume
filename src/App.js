@@ -7,7 +7,7 @@ import About from './components/about/about';
 import Resume from './components/resume/resume';
 import Portfolio from './components/portfolio/portfolio';
 // import Testimonials from  './components/testimonials/testimonials';
-// import ContactUs from './components/contactus/contactus';
+import ContactUs from './components/contactus/contactus';
 import Footer from './components/footer/footer';
 // import resumeData from './resumeData';
 class App extends Component {
@@ -18,6 +18,7 @@ class App extends Component {
         <About />
         <Resume />
         <Portfolio />
+        <ContactUs />
         <Footer />
       </div>
     );
