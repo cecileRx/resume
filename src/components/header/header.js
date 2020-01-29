@@ -26,11 +26,10 @@ export default class Header extends Component {
               <hr />
             </div>
             <ul className="social">
-              <li><a href="https://twitter.com/CeclRx"><i className="fa fa-twitter" /></a></li>
-              <li><a href="https://github.com/cecileRx"><i className="fa fa-github" /></a></li>
-              <li><a href="https://www.linkedin.com/in/c%C3%A9cile-rougnaux-36999516"><i className="fa fa-linkedin" /></a></li>
-              <li><a href="#"><i className="fa fa-dribbble" /></a></li>
-              <li><a href="skype:cecile rougnaux?chat"><i className="fa fa-skype" /></a></li>
+              <li><a href="https://twitter.com/CeclRx" target="_blank"><i className="fa fa-twitter" /></a></li>
+              <li><a href="https://github.com/cecileRx" target="_blank"><i className="fa fa-github" /></a></li>
+              <li><a href="https://www.linkedin.com/in/c%C3%A9cile-rougnaux-36999516" target="_blank"><i className="fa fa-linkedin" /></a></li>
+              <li><a href="skype:cecile rougnaux?chat" target="_blank"><i className="fa fa-skype" /></a></li>
             </ul>
           </div>
         </div>

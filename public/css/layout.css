@@ -223,7 +223,8 @@ ul#nav li.current a { color: #F06000; }
    height: 120px;
    border-radius: 100%;
 }
-#about .contact-details { width: 41.66667%; }
+#about .contact-details { width: 100%;
+}
 #about .download {
    width: 58.33333%;
    padding-top: 6px;
@@ -357,6 +358,13 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
+
+.bootstrap {
+    width: 50%;
+    -moz-animation: bootstrap 2s ease;
+    -webkit-animation: bootstrap 2s ease;
+}
+
 .html5 {
   	width: 80%;
   	-moz-animation: html5 2s ease;
@@ -374,7 +382,17 @@ ul#nav li.current a { color: #F06000; }
     -webkit-animation: react 2s ease;
 }
 
+.git {
+    width: 80%;
+    -moz-animation: git 2s ease;
+    -webkit-animation: git 2s ease;
+}
 
+.heroku {
+    width: 40%;
+    -moz-animation: heroku 2s ease;
+    -webkit-animation: heroku 2s ease;
+}
 @-moz-keyframes ruby {
   0%   { width: 0px;  }
   100% { width: 55%;  }
@@ -391,6 +409,10 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
+@-moz-keyframes bootstrap {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
 @-moz-keyframes html5 {
   0%   { width: 0px;  }
   100% { width: 80%;  }
@@ -402,6 +424,14 @@ ul#nav li.current a { color: #F06000; }
 @-moz-keyframes react {
   0%   { width: 0px;  }
   100% { width: 30%;  }
+}
+@-moz-keyframes git {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes heroku {
+  0%   { width: 0px;  }
+  100% { width: 40%;  }
 }
 
 @-webkit-keyframes photoshop {
@@ -420,6 +450,10 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
+@-webkit-keyframes bootstrap {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
 @-webkit-keyframes html5 {
   0%   { width: 0px;  }
   100% { width: 80%;  }
@@ -431,6 +465,14 @@ ul#nav li.current a { color: #F06000; }
 @-webkit-keyframes react {
   0%   { width: 0px;  }
   100% { width: 30%;  }
+}
+@-webkit-keyframes git {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes heroku {
+  0%   { width: 0px;  }
+  100% { width: 40%;  }
 }
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
