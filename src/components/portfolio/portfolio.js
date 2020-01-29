@@ -58,11 +58,11 @@ export default class Porfolio extends Component {
             <div className="description-box">
               <h4>CameLove</h4>
               <p>A market-place for llamas lovers! Designed, implemented and shipped to production</p>
-              <p><a href="https://github.com/paultursuru/camelove">See code on Github</a></p>
+              <p><a href="https://camelove.herokuapp.com" target="_blank" >Visit the website</a></p>
               <span className="categories"><i className="fa fa-tag" />Ruby on Rails, Javascript</span>
             </div>
             <div className="link-box">
-              <a href="https://camelove.herokuapp.com">Details</a>
+              <a href= "https://github.com/paultursuru/camelove" target="_blank">Github</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>
@@ -71,11 +71,11 @@ export default class Porfolio extends Component {
             <div className="description-box">
               <h4>Yup!</h4>
               <p>Finally understand how to grow this red thing ! 🍅 </p> <p>Designed, implemented with FullCalendar.js and Stripe and shipped to production</p>
-              <p><a href="https://github.com/paultursuru/yup">See code on Github</a></p>
+              <p><a href="http://www.yoururbanpotager.com/" target="_blank">Visit the website</a></p>
               <span className="categories"><i className="fa fa-tag" />Ruby on Rails, Javascript</span>
             </div>
             <div className="link-box">
-              <a href="http://www.yoururbanpotager.com/">Details</a>
+              <a href= "https://github.com/paultursuru/yup" target="_blank">Github</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>{/* modal-02 End */}
@@ -87,7 +87,7 @@ export default class Porfolio extends Component {
               <span className="categories"><i className="fa fa-tag" />Ruby on Rails</span>
             </div>
             <div className="link-box">
-              <a href="https://github.com/cecileRx/rails-mister-cocktail">Details</a>
+              <a href="https://github.com/cecileRx/rails-mister-cocktail">Github</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>{/* modal-03 End */}

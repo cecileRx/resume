@@ -14,7 +14,7 @@ export default class Resume extends Component {
               <div className="twelve columns">
                 <h3>Le Wagon Paris</h3>
                 <p className="info"> FullStack developer Bootcamp <span>•</span> <em className="date">Dec 2019</em></p>
-                  The 9 weeks of intensive coding bootcamp allowed me to understand the core concepts of object-oriented programing, through Ruby language. Building softwares from scratch, following MVC design pattern, I learned to design relational databases and build queries with SQL. All projects I build so far are based on Ruby on rails framework. For the front end part we learned the basics of ES6 Javascript and coded our own CSS library with recent techniques like Flexbox and CSS grid.  By pair-programing on a daily basis and collaborate within a team of developers for the final projects, I have definitely adopted the technical workflow followed by successful startups.
+                  The 9 weeks of intensive coding bootcamp allowed me to understand the core concepts of object-oriented programing, through Ruby language. Building softwares from scratch, following MVC design pattern, I learned to design relational databases and build queries with SQL. All projects I built so far are based on Ruby on rails framework. For the front end part we learned the basics of ES6 Javascript and coded our own CSS library with recent techniques like Flexbox and CSS grid.  By pair-programing on a daily basis and collaborate within a team of developers for the final projects, I have definitely adopted the technical workflow followed by successful startups.
                 <p>
 
                 </p>
@@ -65,7 +65,7 @@ export default class Resume extends Component {
             <h1><span>Skills</span></h1>
           </div>
           <div className="nine columns main-col">
-            <p> Among the soft skills that I have been able to acquire over the years, I would highlight great organization skills, attention to details, and a lot of perseverance. What I like most in the video editing process are the moments I work directly with the director, putting together the best of artistic and technical aspects to create a nice, coherent and original piece of work. I felt the same emulation when pair-programing at le wagon!
+            <p> Among the soft skills that I have been able to acquire over the years, I would highlight great organization skills, attention to details, and a lot of perseverance. What I like most in the video editing process are the moments I work directly with the director, putting together the best of artistic and technical aspects to create a nice, coherent and original piece of work. I felt the same emulation when pair-programing at Le Wagon!
             </p>
             <div className="bars">
               <ul className="skills">
@@ -73,9 +73,12 @@ export default class Resume extends Component {
                 <li><span className="bar-expand rails" /><em>Rails</em></li>
                 <li><span className="bar-expand javascript" /><em>Javascript ES6</em></li>
                 <li><span className="bar-expand css" /><em>CSS</em></li>
+                <li><span className="bar-expand bootstrap" /><em>BOOTSTRAP</em></li>
                 <li><span className="bar-expand html5" /><em>HTML5</em></li>
                 <li><span className="bar-expand sql" /><em>SQL</em></li>
                 <li><span className="bar-expand react" /><em>React</em></li>
+                <li><span className="bar-expand git" /><em>GIT/GITHUB</em></li>
+                <li><span className="bar-expand heroku" /><em>HEROKU</em></li>
               </ul>
             </div>
           </div>
