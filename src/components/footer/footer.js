@@ -8,9 +8,9 @@ export default class Footer extends Component {
         <div className="row">
           <div className="twelve columns">
             <ul className="social-links">
-              <li><a href="#"><i className="fa fa-twitter" /></a></li>
-              <li><a href="https://www.linkedin.com/in/c%C3%A9cile-rougnaux-36999516"><i className="fa fa-linkedin" /></a></li>
-              <li><a href="skype:cecile rougnaux?chat"><i className="fa fa-skype" /></a></li>
+              <li><a href="https://twitter.com/CeclRx" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter" /></a></li>
+              <li><a href="https://www.linkedin.com/in/c%C3%A9cile-rougnaux-36999516" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin" /></a></li>
+              <li><a href="skype:cecile rougnaux?chat" target="_blank" rel="noopener noreferrer"><i className="fa fa-skype" /></a></li>
             </ul>
             <ul className="copyright">
               <li>© Copyright 2014 CeeVee</li>

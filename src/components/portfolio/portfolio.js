@@ -58,11 +58,11 @@ export default class Porfolio extends Component {
             <div className="description-box">
               <h4>CameLove</h4>
               <p>A market-place for llamas lovers! Designed, implemented and shipped to production</p>
-              <p><a href="https://camelove.herokuapp.com" target="_blank" >Visit the website</a></p>
+              <p><a href="https://camelove.herokuapp.com" target="_blank" rel="noopener" >Visit the website</a></p>
               <span className="categories"><i className="fa fa-tag" />Ruby on Rails, Javascript</span>
             </div>
             <div className="link-box">
-              <a href= "https://github.com/paultursuru/camelove" target="_blank">Github</a>
+              <a href= "https://github.com/paultursuru/camelove" target="_blank" rel="noopener">Github</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>
@@ -70,12 +70,12 @@ export default class Porfolio extends Component {
             <img className="scale-with-grid" src="images/portfolio/modals/yup_modal.png" alt="" />
             <div className="description-box">
               <h4>Yup!</h4>
-              <p>Finally understand how to grow this red thing ! 🍅 </p> <p>Designed, implemented with FullCalendar.js and Stripe and shipped to production</p>
-              <p><a href="http://www.yoururbanpotager.com/" target="_blank">Visit the website</a></p>
+              <p>Finally understand how to grow this red thing ! <span role="img">🍅</span> </p> <p>Designed, implemented with FullCalendar.js and Stripe and shipped to production</p>
+              <p><a href="http://www.yoururbanpotager.com/" target="_blank" rel="noopener noreferrer">Visit the website</a></p>
               <span className="categories"><i className="fa fa-tag" />Ruby on Rails, Javascript</span>
             </div>
             <div className="link-box">
-              <a href= "https://github.com/paultursuru/yup" target="_blank">Github</a>
+              <a href= "https://github.com/paultursuru/yup" target="_blank" rel="noopener">Github</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>{/* modal-02 End */}
