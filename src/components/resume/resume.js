@@ -22,7 +22,7 @@ export default class Resume extends Component {
             </div>
             <div className="row item">
               <div className="twelve columns">
-                <h3>Science Politiques Aix-en-Provence</h3>
+                <h3>Sciences Politiques Aix-en-Provence</h3>
                 <p className="info">Master Information-Communication <span>•</span> <em className="date">Sept 2003</em></p>
                 <p>
                   Besides learning political, economical and social sciences, I spent 9 months in Dakar, Sénégal, working for a daily newspaper as a journalist. This experience had a great effect on my abilities to be autonomous and highly adapative to any kind of situations.
